@@ -1,0 +1,482 @@
+[2026-06-29 12:40:04] [Coordinator] [INFO] 
+  [Coordinator] 步骤 1/5: Planner — 生成检索策略
+[2026-06-29 12:40:04] [Planner] [INFO] 
+ [Planner] 正在分析主题: '人类反馈奖励强化学习的发展' ...
+[2026-06-29 12:40:07] [Coordinator] [INFO] 
+  [Coordinator] 步骤 2/5: Searcher — 混合检索
+[2026-06-29 12:50:32] [Coordinator] [INFO] 
+  [Coordinator] 步骤 3/5: Reader — 解析 PDF
+[2026-06-29 12:50:32] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: AI_Coaching_for_Accelerating_Human_Skill_Development_with_Reinforcement_Learning_2606_25337v1.pdf
+[2026-06-29 12:50:32] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: AI_Coaching_for_Accelerating_Human_Skill_Development_with_Reinforcement_Learning_2606_25337v1.pdf
+[2026-06-29 12:50:32] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: AI_Coaching_for_Accelerating_Human_Skill_Development_with_Reinforcement_Learning_2606_25337v1.pdf
+[2026-06-29 12:50:32] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 12:50:32] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 13:00:12] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-06-29 13:00:12] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-06-29 13:00:12] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: A_Comprehensive_Survey_on_Inverse_Constrained_Reinforcement_Learning_Definitions_2409_07569v3.pdf
+[2026-06-29 13:00:12] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Comprehensive_Survey_on_Inverse_Constrained_Reinforcement_Learning_Definitions_2409_07569v3.pdf
+[2026-06-29 13:00:12] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Comprehensive_Survey_on_Inverse_Constrained_Reinforcement_Learning_Definitions_2409_07569v3.pdf
+[2026-06-29 13:00:12] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 13:00:12] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 13:15:28] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-06-29 13:15:28] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-06-29 13:15:28] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: A_Survey_On_Enhancing_Reinforcement_Learning_in_Complex_Environments_Insights_fr_2411_13410v1.pdf
+[2026-06-29 13:15:28] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_On_Enhancing_Reinforcement_Learning_in_Complex_Environments_Insights_fr_2411_13410v1.pdf
+[2026-06-29 13:15:28] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_On_Enhancing_Reinforcement_Learning_in_Complex_Environments_Insights_fr_2411_13410v1.pdf
+[2026-06-29 13:15:28] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 13:15:28] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 13:21:19] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_On_Enhancing_Reinforcement_Learning_in_Complex_Environments_Insights_fr_2411_13410v1.pdf
+[2026-06-29 13:21:19] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_On_Enhancing_Reinforcement_Learning_in_Complex_Environments_Insights_fr_2411_13410v1.pdf
+[2026-06-29 13:21:20] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 13:21:20] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 13:21:22] [Reader.LLM] [ERROR]   [LLM] 调用失败 A_Survey_On_Enhancing_Reinforcement_Learning_in_Complex_Environments_Insights_fr_2411_13410v1.pdf: Connection error.
+[2026-06-29 13:21:22] [Reader.LLM] [ERROR]   [LLM] 调用失败 A_Survey_On_Enhancing_Reinforcement_Learning_in_Complex_Environments_Insights_fr_2411_13410v1.pdf: Connection error.
+[2026-06-29 13:21:22] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: A_Survey_of_Explainable_Reinforcement_Learning_2202_08434v1.pdf
+[2026-06-29 13:21:22] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_of_Explainable_Reinforcement_Learning_2202_08434v1.pdf
+[2026-06-29 13:21:22] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_of_Explainable_Reinforcement_Learning_2202_08434v1.pdf
+[2026-06-29 13:21:22] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 13:21:22] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 13:27:05] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_of_Explainable_Reinforcement_Learning_2202_08434v1.pdf
+[2026-06-29 13:27:05] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_of_Explainable_Reinforcement_Learning_2202_08434v1.pdf
+[2026-06-29 13:27:06] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 13:27:06] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 13:27:07] [Reader.LLM] [ERROR]   [LLM] 调用失败 A_Survey_of_Explainable_Reinforcement_Learning_2202_08434v1.pdf: Connection error.
+[2026-06-29 13:27:07] [Reader.LLM] [ERROR]   [LLM] 调用失败 A_Survey_of_Explainable_Reinforcement_Learning_2202_08434v1.pdf: Connection error.
+[2026-06-29 13:27:07] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: A_Survey_of_Inverse_Reinforcement_Learning_Challenges,_Methods_and_Progress_1806_06877v3.pdf
+[2026-06-29 13:27:07] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_of_Inverse_Reinforcement_Learning_Challenges,_Methods_and_Progress_1806_06877v3.pdf
+[2026-06-29 13:27:07] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_of_Inverse_Reinforcement_Learning_Challenges,_Methods_and_Progress_1806_06877v3.pdf
+[2026-06-29 13:27:07] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 13:27:07] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 13:39:14] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_of_Inverse_Reinforcement_Learning_Challenges,_Methods_and_Progress_1806_06877v3.pdf
+[2026-06-29 13:39:14] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_of_Inverse_Reinforcement_Learning_Challenges,_Methods_and_Progress_1806_06877v3.pdf
+[2026-06-29 13:39:14] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 13:39:14] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 13:39:18] [Reader.LLM] [INFO]   ✓ 成功提取: A_Survey_of_Inverse_Reinforcement_Learning_Challenges,_Methods_and_Progress_1806_06877v3.pdf
+[2026-06-29 13:39:18] [Reader.LLM] [INFO]   ✓ 成功提取: A_Survey_of_Inverse_Reinforcement_Learning_Challenges,_Methods_and_Progress_1806_06877v3.pdf
+[2026-06-29 13:39:18] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: A_Survey_of_Progress_on_Cooperative_Multi-agent_Reinforcement_Learning_in_Open_E_2312_01058v1.pdf
+[2026-06-29 13:39:18] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_of_Progress_on_Cooperative_Multi-agent_Reinforcement_Learning_in_Open_E_2312_01058v1.pdf
+[2026-06-29 13:39:18] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_of_Progress_on_Cooperative_Multi-agent_Reinforcement_Learning_in_Open_E_2312_01058v1.pdf
+[2026-06-29 13:39:18] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 13:39:18] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 13:46:57] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-06-29 13:46:57] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-06-29 13:46:57] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: A_Survey_of_Reinforcement_Learning_from_Human_Feedback_2312_14925v3.pdf
+[2026-06-29 13:46:57] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_of_Reinforcement_Learning_from_Human_Feedback_2312_14925v3.pdf
+[2026-06-29 13:46:57] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_of_Reinforcement_Learning_from_Human_Feedback_2312_14925v3.pdf
+[2026-06-29 13:46:57] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 13:46:57] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:00:43] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_of_Reinforcement_Learning_from_Human_Feedback_2312_14925v3.pdf
+[2026-06-29 14:00:43] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_of_Reinforcement_Learning_from_Human_Feedback_2312_14925v3.pdf
+[2026-06-29 14:00:43] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:00:43] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:00:48] [Reader.LLM] [INFO]   ✓ 成功提取: A_Survey_of_Reinforcement_Learning_from_Human_Feedback_2312_14925v3.pdf
+[2026-06-29 14:00:48] [Reader.LLM] [INFO]   ✓ 成功提取: A_Survey_of_Reinforcement_Learning_from_Human_Feedback_2312_14925v3.pdf
+[2026-06-29 14:00:48] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: A_Survey_on_Interpretable_Reinforcement_Learning_2112_13112v2.pdf
+[2026-06-29 14:00:48] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Interpretable_Reinforcement_Learning_2112_13112v2.pdf
+[2026-06-29 14:00:48] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Interpretable_Reinforcement_Learning_2112_13112v2.pdf
+[2026-06-29 14:00:48] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:00:48] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:06:44] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_on_Interpretable_Reinforcement_Learning_2112_13112v2.pdf
+[2026-06-29 14:06:44] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_on_Interpretable_Reinforcement_Learning_2112_13112v2.pdf
+[2026-06-29 14:06:44] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:06:44] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:06:48] [Reader.LLM] [INFO]   ✓ 成功提取: A_Survey_on_Interpretable_Reinforcement_Learning_2112_13112v2.pdf
+[2026-06-29 14:06:48] [Reader.LLM] [INFO]   ✓ 成功提取: A_Survey_on_Interpretable_Reinforcement_Learning_2112_13112v2.pdf
+[2026-06-29 14:06:48] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: A_Survey_on_Recent_Advances_and_Challenges_in_Reinforcement_Learning_Methods_for_2202_13675v2.pdf
+[2026-06-29 14:06:48] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Recent_Advances_and_Challenges_in_Reinforcement_Learning_Methods_for_2202_13675v2.pdf
+[2026-06-29 14:06:48] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Recent_Advances_and_Challenges_in_Reinforcement_Learning_Methods_for_2202_13675v2.pdf
+[2026-06-29 14:06:48] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:06:48] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:10:30] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_on_Recent_Advances_and_Challenges_in_Reinforcement_Learning_Methods_for_2202_13675v2.pdf
+[2026-06-29 14:10:30] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_on_Recent_Advances_and_Challenges_in_Reinforcement_Learning_Methods_for_2202_13675v2.pdf
+[2026-06-29 14:10:30] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:10:30] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:10:33] [Reader.LLM] [INFO]   ✓ 成功提取: A_Survey_on_Recent_Advances_and_Challenges_in_Reinforcement_Learning_Methods_for_2202_13675v2.pdf
+[2026-06-29 14:10:33] [Reader.LLM] [INFO]   ✓ 成功提取: A_Survey_on_Recent_Advances_and_Challenges_in_Reinforcement_Learning_Methods_for_2202_13675v2.pdf
+[2026-06-29 14:10:33] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: A_Survey_on_Transformers_in_Reinforcement_Learning_2301_03044v3.pdf
+[2026-06-29 14:10:33] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Transformers_in_Reinforcement_Learning_2301_03044v3.pdf
+[2026-06-29 14:10:33] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Transformers_in_Reinforcement_Learning_2301_03044v3.pdf
+[2026-06-29 14:10:33] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:10:33] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:16:11] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_on_Transformers_in_Reinforcement_Learning_2301_03044v3.pdf
+[2026-06-29 14:16:11] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_on_Transformers_in_Reinforcement_Learning_2301_03044v3.pdf
+[2026-06-29 14:16:11] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:16:11] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:16:14] [Reader.LLM] [INFO]   ✓ 成功提取: A_Survey_on_Transformers_in_Reinforcement_Learning_2301_03044v3.pdf
+[2026-06-29 14:16:14] [Reader.LLM] [INFO]   ✓ 成功提取: A_Survey_on_Transformers_in_Reinforcement_Learning_2301_03044v3.pdf
+[2026-06-29 14:16:14] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Advanced_Statistical_Arbitrage_with_Reinforcement_Learning_2403_12180v1.pdf
+[2026-06-29 14:16:14] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Advanced_Statistical_Arbitrage_with_Reinforcement_Learning_2403_12180v1.pdf
+[2026-06-29 14:16:14] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Advanced_Statistical_Arbitrage_with_Reinforcement_Learning_2403_12180v1.pdf
+[2026-06-29 14:16:14] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:16:14] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:21:34] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Advanced_Statistical_Arbitrage_with_Reinforcement_Learning_2403_12180v1.pdf
+[2026-06-29 14:21:34] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Advanced_Statistical_Arbitrage_with_Reinforcement_Learning_2403_12180v1.pdf
+[2026-06-29 14:21:34] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:21:34] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:21:38] [Reader.LLM] [INFO]   ✓ 成功提取: Advanced_Statistical_Arbitrage_with_Reinforcement_Learning_2403_12180v1.pdf
+[2026-06-29 14:21:38] [Reader.LLM] [INFO]   ✓ 成功提取: Advanced_Statistical_Arbitrage_with_Reinforcement_Learning_2403_12180v1.pdf
+[2026-06-29 14:21:38] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Advances_in_Human_Action_Recognition_A_Survey_1501_05964v1.pdf
+[2026-06-29 14:21:38] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Advances_in_Human_Action_Recognition_A_Survey_1501_05964v1.pdf
+[2026-06-29 14:21:38] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Advances_in_Human_Action_Recognition_A_Survey_1501_05964v1.pdf
+[2026-06-29 14:21:38] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:21:38] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:25:31] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Advances_in_Human_Action_Recognition_A_Survey_1501_05964v1.pdf
+[2026-06-29 14:25:31] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Advances_in_Human_Action_Recognition_A_Survey_1501_05964v1.pdf
+[2026-06-29 14:25:31] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:25:31] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:25:35] [Reader.LLM] [INFO]   ✓ 成功提取: Advances_in_Human_Action_Recognition_A_Survey_1501_05964v1.pdf
+[2026-06-29 14:25:35] [Reader.LLM] [INFO]   ✓ 成功提取: Advances_in_Human_Action_Recognition_A_Survey_1501_05964v1.pdf
+[2026-06-29 14:25:35] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Advances_in_Quantum_Reinforcement_Learning_1811_08676v1.pdf
+[2026-06-29 14:25:35] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Advances_in_Quantum_Reinforcement_Learning_1811_08676v1.pdf
+[2026-06-29 14:25:35] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Advances_in_Quantum_Reinforcement_Learning_1811_08676v1.pdf
+[2026-06-29 14:25:35] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:25:35] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:29:16] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Advances_in_Quantum_Reinforcement_Learning_1811_08676v1.pdf
+[2026-06-29 14:29:16] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Advances_in_Quantum_Reinforcement_Learning_1811_08676v1.pdf
+[2026-06-29 14:29:16] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:29:16] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:29:19] [Reader.LLM] [INFO]   ✓ 成功提取: Advances_in_Quantum_Reinforcement_Learning_1811_08676v1.pdf
+[2026-06-29 14:29:19] [Reader.LLM] [INFO]   ✓ 成功提取: Advances_in_Quantum_Reinforcement_Learning_1811_08676v1.pdf
+[2026-06-29 14:29:19] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Combining_Evolution_and_Deep_Reinforcement_Learning_for_Policy_Search_a_Survey_2203_14009v5.pdf
+[2026-06-29 14:29:19] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Combining_Evolution_and_Deep_Reinforcement_Learning_for_Policy_Search_a_Survey_2203_14009v5.pdf
+[2026-06-29 14:29:19] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Combining_Evolution_and_Deep_Reinforcement_Learning_for_Policy_Search_a_Survey_2203_14009v5.pdf
+[2026-06-29 14:29:19] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:29:19] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:33:02] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Combining_Evolution_and_Deep_Reinforcement_Learning_for_Policy_Search_a_Survey_2203_14009v5.pdf
+[2026-06-29 14:33:02] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Combining_Evolution_and_Deep_Reinforcement_Learning_for_Policy_Search_a_Survey_2203_14009v5.pdf
+[2026-06-29 14:33:02] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:33:02] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:33:06] [Reader.LLM] [INFO]   ✓ 成功提取: Combining_Evolution_and_Deep_Reinforcement_Learning_for_Policy_Search_a_Survey_2203_14009v5.pdf
+[2026-06-29 14:33:06] [Reader.LLM] [INFO]   ✓ 成功提取: Combining_Evolution_and_Deep_Reinforcement_Learning_for_Policy_Search_a_Survey_2203_14009v5.pdf
+[2026-06-29 14:33:06] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Deep_Reinforcement_Learning_Versus_Evolution_Strategies_A_Comparative_Survey_2110_01411v1.pdf
+[2026-06-29 14:33:06] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Deep_Reinforcement_Learning_Versus_Evolution_Strategies_A_Comparative_Survey_2110_01411v1.pdf
+[2026-06-29 14:33:06] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Deep_Reinforcement_Learning_Versus_Evolution_Strategies_A_Comparative_Survey_2110_01411v1.pdf
+[2026-06-29 14:33:06] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:33:06] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:41:45] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Deep_Reinforcement_Learning_Versus_Evolution_Strategies_A_Comparative_Survey_2110_01411v1.pdf
+[2026-06-29 14:41:45] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Deep_Reinforcement_Learning_Versus_Evolution_Strategies_A_Comparative_Survey_2110_01411v1.pdf
+[2026-06-29 14:41:45] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:41:45] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:41:49] [Reader.LLM] [INFO]   ✓ 成功提取: Deep_Reinforcement_Learning_Versus_Evolution_Strategies_A_Comparative_Survey_2110_01411v1.pdf
+[2026-06-29 14:41:49] [Reader.LLM] [INFO]   ✓ 成功提取: Deep_Reinforcement_Learning_Versus_Evolution_Strategies_A_Comparative_Survey_2110_01411v1.pdf
+[2026-06-29 14:41:49] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: DrugGen_Advancing_Drug_Discovery_with_Large_Language_Models_and_Reinforcement_Le_2411_14157v1.pdf
+[2026-06-29 14:41:49] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: DrugGen_Advancing_Drug_Discovery_with_Large_Language_Models_and_Reinforcement_Le_2411_14157v1.pdf
+[2026-06-29 14:41:49] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: DrugGen_Advancing_Drug_Discovery_with_Large_Language_Models_and_Reinforcement_Le_2411_14157v1.pdf
+[2026-06-29 14:41:49] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:41:49] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:45:24] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: DrugGen_Advancing_Drug_Discovery_with_Large_Language_Models_and_Reinforcement_Le_2411_14157v1.pdf
+[2026-06-29 14:45:24] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: DrugGen_Advancing_Drug_Discovery_with_Large_Language_Models_and_Reinforcement_Le_2411_14157v1.pdf
+[2026-06-29 14:45:24] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:45:24] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:45:29] [Reader.LLM] [INFO]   ✓ 成功提取: DrugGen_Advancing_Drug_Discovery_with_Large_Language_Models_and_Reinforcement_Le_2411_14157v1.pdf
+[2026-06-29 14:45:29] [Reader.LLM] [INFO]   ✓ 成功提取: DrugGen_Advancing_Drug_Discovery_with_Large_Language_Models_and_Reinforcement_Le_2411_14157v1.pdf
+[2026-06-29 14:45:29] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Efficient_Reinforcement_Learning_Development_with_RLzoo_2009_08644v2.pdf
+[2026-06-29 14:45:29] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Efficient_Reinforcement_Learning_Development_with_RLzoo_2009_08644v2.pdf
+[2026-06-29 14:45:29] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Efficient_Reinforcement_Learning_Development_with_RLzoo_2009_08644v2.pdf
+[2026-06-29 14:45:29] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:45:29] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:47:42] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Efficient_Reinforcement_Learning_Development_with_RLzoo_2009_08644v2.pdf
+[2026-06-29 14:47:42] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Efficient_Reinforcement_Learning_Development_with_RLzoo_2009_08644v2.pdf
+[2026-06-29 14:47:42] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:47:42] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:47:45] [Reader.LLM] [INFO]   ✓ 成功提取: Efficient_Reinforcement_Learning_Development_with_RLzoo_2009_08644v2.pdf
+[2026-06-29 14:47:45] [Reader.LLM] [INFO]   ✓ 成功提取: Efficient_Reinforcement_Learning_Development_with_RLzoo_2009_08644v2.pdf
+[2026-06-29 14:47:45] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Ensemble_Reinforcement_Learning_A_Survey_2303_02618v3.pdf
+[2026-06-29 14:47:45] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Ensemble_Reinforcement_Learning_A_Survey_2303_02618v3.pdf
+[2026-06-29 14:47:45] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Ensemble_Reinforcement_Learning_A_Survey_2303_02618v3.pdf
+[2026-06-29 14:47:45] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:47:45] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:50:34] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-06-29 14:50:34] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-06-29 14:50:34] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Lineage_Evolution_Reinforcement_Learning_2010_14616v1.pdf
+[2026-06-29 14:50:34] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Lineage_Evolution_Reinforcement_Learning_2010_14616v1.pdf
+[2026-06-29 14:50:34] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Lineage_Evolution_Reinforcement_Learning_2010_14616v1.pdf
+[2026-06-29 14:50:34] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:50:34] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:57:13] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Lineage_Evolution_Reinforcement_Learning_2010_14616v1.pdf
+[2026-06-29 14:57:13] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Lineage_Evolution_Reinforcement_Learning_2010_14616v1.pdf
+[2026-06-29 14:57:13] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:57:13] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 14:57:17] [Reader.LLM] [INFO]   ✓ 成功提取: Lineage_Evolution_Reinforcement_Learning_2010_14616v1.pdf
+[2026-06-29 14:57:17] [Reader.LLM] [INFO]   ✓ 成功提取: Lineage_Evolution_Reinforcement_Learning_2010_14616v1.pdf
+[2026-06-29 14:57:17] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Reinforcement_Learning_A_Survey_cs_9605103v1.pdf
+[2026-06-29 14:57:17] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Reinforcement_Learning_A_Survey_cs_9605103v1.pdf
+[2026-06-29 14:57:17] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Reinforcement_Learning_A_Survey_cs_9605103v1.pdf
+[2026-06-29 14:57:17] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 14:57:17] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 15:14:45] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-06-29 15:14:45] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-06-29 15:14:45] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Reinforcement_learning_with_human_advice_a_survey_2005_11016v2.pdf
+[2026-06-29 15:14:45] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Reinforcement_learning_with_human_advice_a_survey_2005_11016v2.pdf
+[2026-06-29 15:14:45] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Reinforcement_learning_with_human_advice_a_survey_2005_11016v2.pdf
+[2026-06-29 15:14:45] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 15:14:45] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 15:19:56] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-06-29 15:19:56] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-06-29 15:19:56] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Selective_Progress-Aware_Querying_for_Human-in-the-Loop_Reinforcement_Learning_2509_20541v1.pdf
+[2026-06-29 15:19:56] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Selective_Progress-Aware_Querying_for_Human-in-the-Loop_Reinforcement_Learning_2509_20541v1.pdf
+[2026-06-29 15:19:56] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Selective_Progress-Aware_Querying_for_Human-in-the-Loop_Reinforcement_Learning_2509_20541v1.pdf
+[2026-06-29 15:19:56] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 15:19:56] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 15:23:12] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Selective_Progress-Aware_Querying_for_Human-in-the-Loop_Reinforcement_Learning_2509_20541v1.pdf
+[2026-06-29 15:23:12] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Selective_Progress-Aware_Querying_for_Human-in-the-Loop_Reinforcement_Learning_2509_20541v1.pdf
+[2026-06-29 15:23:13] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 15:23:13] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 15:23:17] [Reader.LLM] [INFO]   ✓ 成功提取: Selective_Progress-Aware_Querying_for_Human-in-the-Loop_Reinforcement_Learning_2509_20541v1.pdf
+[2026-06-29 15:23:17] [Reader.LLM] [INFO]   ✓ 成功提取: Selective_Progress-Aware_Querying_for_Human-in-the-Loop_Reinforcement_Learning_2509_20541v1.pdf
+[2026-06-29 15:23:17] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Survey_of_Human_Factors_in_Crisis_Responsive_Software_Development_2007_12019v1.pdf
+[2026-06-29 15:23:17] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Survey_of_Human_Factors_in_Crisis_Responsive_Software_Development_2007_12019v1.pdf
+[2026-06-29 15:23:17] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Survey_of_Human_Factors_in_Crisis_Responsive_Software_Development_2007_12019v1.pdf
+[2026-06-29 15:23:17] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 15:23:17] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 15:25:05] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Survey_of_Human_Factors_in_Crisis_Responsive_Software_Development_2007_12019v1.pdf
+[2026-06-29 15:25:05] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Survey_of_Human_Factors_in_Crisis_Responsive_Software_Development_2007_12019v1.pdf
+[2026-06-29 15:25:06] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 15:25:06] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 15:25:09] [Reader.LLM] [INFO]   ✓ 成功提取: Survey_of_Human_Factors_in_Crisis_Responsive_Software_Development_2007_12019v1.pdf
+[2026-06-29 15:25:09] [Reader.LLM] [INFO]   ✓ 成功提取: Survey_of_Human_Factors_in_Crisis_Responsive_Software_Development_2007_12019v1.pdf
+[2026-06-29 15:25:09] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: The_Evolution_of_Reinforcement_Learning_in_Quantitative_Finance_A_Survey_2408_10932v3.pdf
+[2026-06-29 15:25:09] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: The_Evolution_of_Reinforcement_Learning_in_Quantitative_Finance_A_Survey_2408_10932v3.pdf
+[2026-06-29 15:25:09] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: The_Evolution_of_Reinforcement_Learning_in_Quantitative_Finance_A_Survey_2408_10932v3.pdf
+[2026-06-29 15:25:09] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 15:25:09] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 15:33:24] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: The_Evolution_of_Reinforcement_Learning_in_Quantitative_Finance_A_Survey_2408_10932v3.pdf
+[2026-06-29 15:33:24] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: The_Evolution_of_Reinforcement_Learning_in_Quantitative_Finance_A_Survey_2408_10932v3.pdf
+[2026-06-29 15:33:24] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 15:33:24] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 15:33:29] [Reader.LLM] [INFO]   ✓ 成功提取: The_Evolution_of_Reinforcement_Learning_in_Quantitative_Finance_A_Survey_2408_10932v3.pdf
+[2026-06-29 15:33:29] [Reader.LLM] [INFO]   ✓ 成功提取: The_Evolution_of_Reinforcement_Learning_in_Quantitative_Finance_A_Survey_2408_10932v3.pdf
+[2026-06-29 15:33:29] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: VL-Cogito_Progressive_Curriculum_Reinforcement_Learning_for_Advanced_Multimodal__2507_22607v2.pdf
+[2026-06-29 15:33:29] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: VL-Cogito_Progressive_Curriculum_Reinforcement_Learning_for_Advanced_Multimodal__2507_22607v2.pdf
+[2026-06-29 15:33:29] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: VL-Cogito_Progressive_Curriculum_Reinforcement_Learning_for_Advanced_Multimodal__2507_22607v2.pdf
+[2026-06-29 15:33:29] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 15:33:29] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 15:39:20] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: VL-Cogito_Progressive_Curriculum_Reinforcement_Learning_for_Advanced_Multimodal__2507_22607v2.pdf
+[2026-06-29 15:39:20] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: VL-Cogito_Progressive_Curriculum_Reinforcement_Learning_for_Advanced_Multimodal__2507_22607v2.pdf
+[2026-06-29 15:39:20] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 15:39:20] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 15:39:24] [Reader.LLM] [INFO]   ✓ 成功提取: VL-Cogito_Progressive_Curriculum_Reinforcement_Learning_for_Advanced_Multimodal__2507_22607v2.pdf
+[2026-06-29 15:39:24] [Reader.LLM] [INFO]   ✓ 成功提取: VL-Cogito_Progressive_Curriculum_Reinforcement_Learning_for_Advanced_Multimodal__2507_22607v2.pdf
+[2026-06-29 15:39:28] [Coordinator] [INFO] 
+  [Coordinator] 步骤 4/5: Writer — 撰写综述
+[2026-06-29 15:39:28] [Coordinator] [ERROR]   ❌ Writer 异常: generate_latex_review() got an unexpected keyword argument 'papers'
+[2026-06-29 15:39:28] [Coordinator] [INFO] 
+  [Coordinator] 步骤 5/5: Critic — 审查引用
+[2026-06-29 15:39:28] [Coordinator] [ERROR]   ❌ 找不到 .tex 文件
+[2026-06-29 19:54:13] [Coordinator] [INFO] 
+  [Coordinator] 步骤 1/5: Planner — 生成检索策略
+[2026-06-29 19:54:13] [Planner] [INFO] 
+ [Planner] 正在分析主题: 'moe的发展' ...
+[2026-06-29 19:54:16] [Coordinator] [INFO] 
+  [Coordinator] 步骤 2/5: Searcher — 混合检索
+[2026-06-29 19:57:28] [Coordinator] [INFO] 
+  [Coordinator] 步骤 1/5: Planner — 生成检索策略
+[2026-06-29 19:57:28] [Planner] [INFO] 
+ [Planner] 正在分析主题: '自动驾驶和具身智能' ...
+[2026-06-29 19:57:32] [Coordinator] [INFO] 
+  [Coordinator] 步骤 2/5: Searcher — 混合检索
+[2026-06-29 19:57:37] [Coordinator] [WARNING]   ⚠️ 论文数 1 低于阈值 3
+[2026-06-29 20:01:29] [Coordinator] [INFO] 
+  [Coordinator] 步骤 1/5: Planner — 生成检索策略
+[2026-06-29 20:01:29] [Planner] [INFO] 
+ [Planner] 正在分析主题: 'moe的发展' ...
+[2026-06-29 20:01:33] [Coordinator] [INFO] 
+  [Coordinator] 步骤 2/5: Searcher — 混合检索
+[2026-06-29 20:01:47] [Coordinator] [INFO] 
+  [Coordinator] 步骤 3/5: Reader — 解析 PDF
+[2026-06-29 20:01:47] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-06-29 20:01:47] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-06-29 20:01:47] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-06-29 20:01:47] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 20:01:47] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 20:12:49] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-06-29 20:12:49] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-06-29 20:12:49] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 20:12:49] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 20:12:53] [Reader.LLM] [INFO]   ✓ 成功提取: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-06-29 20:12:53] [Reader.LLM] [INFO]   ✓ 成功提取: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-06-29 20:12:53] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-06-29 20:12:53] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-06-29 20:12:53] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-06-29 20:12:53] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 20:12:53] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 20:20:17] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-06-29 20:20:17] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-06-29 20:20:17] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 20:20:17] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 20:20:21] [Reader.LLM] [INFO]   ✓ 成功提取: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-06-29 20:20:21] [Reader.LLM] [INFO]   ✓ 成功提取: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-06-29 20:20:21] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-06-29 20:20:21] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-06-29 20:20:21] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-06-29 20:20:21] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 20:20:21] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 20:23:07] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-06-29 20:23:07] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-06-29 20:23:07] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 20:23:07] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 20:23:12] [Reader.LLM] [INFO]   ✓ 成功提取: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-06-29 20:23:12] [Reader.LLM] [INFO]   ✓ 成功提取: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-06-29 20:23:13] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: PMoE_Progressive_Mixture_of_Experts_with_Asymmetric_Transformer_for_Continual_Le_2407_21571v1.pdf
+[2026-06-29 20:23:13] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: PMoE_Progressive_Mixture_of_Experts_with_Asymmetric_Transformer_for_Continual_Le_2407_21571v1.pdf
+[2026-06-29 20:23:13] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: PMoE_Progressive_Mixture_of_Experts_with_Asymmetric_Transformer_for_Continual_Le_2407_21571v1.pdf
+[2026-06-29 20:23:13] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 20:23:13] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-29 20:28:35] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: PMoE_Progressive_Mixture_of_Experts_with_Asymmetric_Transformer_for_Continual_Le_2407_21571v1.pdf
+[2026-06-29 20:28:35] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: PMoE_Progressive_Mixture_of_Experts_with_Asymmetric_Transformer_for_Continual_Le_2407_21571v1.pdf
+[2026-06-29 20:28:35] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 20:28:35] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-29 20:28:39] [Reader.LLM] [INFO]   ✓ 成功提取: PMoE_Progressive_Mixture_of_Experts_with_Asymmetric_Transformer_for_Continual_Le_2407_21571v1.pdf
+[2026-06-29 20:28:39] [Reader.LLM] [INFO]   ✓ 成功提取: PMoE_Progressive_Mixture_of_Experts_with_Asymmetric_Transformer_for_Continual_Le_2407_21571v1.pdf
+[2026-06-29 20:28:42] [Coordinator] [INFO] 
+  [Coordinator] 步骤 4/5: Writer — 撰写综述
+[2026-06-29 20:28:42] [Coordinator] [ERROR]   ❌ Writer 异常: generate_latex_review() got an unexpected keyword argument 'papers'
+[2026-06-29 20:28:42] [Coordinator] [INFO] 
+  [Coordinator] 步骤 5/5: Critic — 审查引用
+[2026-06-29 20:28:42] [Coordinator] [ERROR]   ❌ 找不到 .tex 文件
+[2026-06-29 20:35:08] [Writer] [INFO] 
+✍️ [Writer] 正在撰写关于《moe的发展》的LaTeX综述（策略C：分块生成）...
+[2026-06-29 20:35:08] [Writer] [INFO]    📊 正在对论文进行技术分类（轻量调用）...
+[2026-06-29 20:35:09] [Writer] [INFO]    ✅ 论文分类完成: ['综述与分类研究', '协作与民主化框架', '持续学习与渐进式专家设计']
+[2026-06-29 20:35:09] [Writer] [INFO]    📝 正在生成章节: 引言（4 篇论文）...
+[2026-06-29 20:35:17] [Writer] [WARNING]   ⚠️ 幻觉引用并拦截: \cite{paper_1, paper_2}
+[2026-06-29 20:35:17] [Writer] [WARNING]   ⚠️ 幻觉引用并拦截: \cite{paper_1, paper_2}
+[2026-06-29 20:35:17] [Writer] [INFO]    📝 正在生成章节: 综述与分类研究（2 篇论文）...
+[2026-06-29 20:35:27] [Writer] [INFO]    📝 正在生成章节: 协作与民主化框架（1 篇论文）...
+[2026-06-29 20:35:39] [Writer] [INFO]    📝 正在生成章节: 持续学习与渐进式专家设计（1 篇论文）...
+[2026-06-29 20:35:49] [Writer] [INFO]    📝 正在生成章节: 实验与局限性分析（4 篇论文）...
+[2026-06-29 20:36:03] [Writer] [INFO]    📝 正在生成章节: 总结与未来展望（4 篇论文）...
+[2026-06-29 20:36:15] [Writer] [INFO]    ✅ LaTeX 综述分块生成并校验完毕！

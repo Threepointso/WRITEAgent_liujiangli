@@ -1,0 +1,76 @@
+[2026-06-27 15:04:04] [Coordinator] [INFO] 
+  [Coordinator] 步骤 1/5: Planner — 生成检索策略
+[2026-06-27 15:04:04] [Planner] [INFO] 
+ [Planner] 正在分析主题: 'moe的发展' ...
+[2026-06-27 15:04:08] [Coordinator] [INFO] 
+  [Coordinator] 步骤 2/5: Searcher — 混合检索
+[2026-06-27 15:20:49] [Coordinator] [INFO] 
+  [Coordinator] 步骤 1/5: Planner — 生成检索策略
+[2026-06-27 15:20:49] [Planner] [INFO] 
+ [Planner] 正在分析主题: 'moe的发展历程' ...
+[2026-06-27 15:20:53] [Coordinator] [INFO] 
+  [Coordinator] 步骤 2/5: Searcher — 混合检索
+[2026-06-27 20:40:37] [Coordinator] [INFO] 
+  [Coordinator] 步骤 1/5: Planner — 生成检索策略
+[2026-06-27 20:40:37] [Planner] [INFO] 
+ [Planner] 正在分析主题: 'moe的发展历程和主要的算法' ...
+[2026-06-27 20:40:42] [Coordinator] [INFO] 
+  [Coordinator] 步骤 2/5: Searcher — 混合检索
+[2026-06-27 21:15:43] [Coordinator] [INFO] 
+  [Coordinator] 步骤 3/5: Reader — 解析 PDF
+[2026-06-27 21:15:43] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: A_Comprehensive_Survey_of_Mixture-of-Experts_Algorithms,_Theory,_and_Application_2503_07137v4.pdf
+[2026-06-27 21:15:43] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Comprehensive_Survey_of_Mixture-of-Experts_Algorithms,_Theory,_and_Application_2503_07137v4.pdf
+[2026-06-27 21:15:43] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Comprehensive_Survey_of_Mixture-of-Experts_Algorithms,_Theory,_and_Application_2503_07137v4.pdf
+[2026-06-27 21:15:43] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-27 21:15:43] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-27 21:24:31] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Comprehensive_Survey_of_Mixture-of-Experts_Algorithms,_Theory,_and_Application_2503_07137v4.pdf
+[2026-06-27 21:24:31] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Comprehensive_Survey_of_Mixture-of-Experts_Algorithms,_Theory,_and_Application_2503_07137v4.pdf
+[2026-06-27 21:24:32] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-27 21:24:32] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-27 21:24:36] [Reader.LLM] [INFO]   ✓ 成功提取: A_Comprehensive_Survey_of_Mixture-of-Experts_Algorithms,_Theory,_and_Application_2503_07137v4.pdf
+[2026-06-27 21:24:36] [Reader.LLM] [INFO]   ✓ 成功提取: A_Comprehensive_Survey_of_Mixture-of-Experts_Algorithms,_Theory,_and_Application_2503_07137v4.pdf
+[2026-06-27 21:24:36] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: A_Stage-Aware_Mixture_of_Experts_Framework_for_Neurodegenerative_Disease_Progres_2508_07032v1.pdf
+[2026-06-27 21:24:36] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Stage-Aware_Mixture_of_Experts_Framework_for_Neurodegenerative_Disease_Progres_2508_07032v1.pdf
+[2026-06-27 21:24:36] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Stage-Aware_Mixture_of_Experts_Framework_for_Neurodegenerative_Disease_Progres_2508_07032v1.pdf
+[2026-06-27 21:24:36] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-27 21:24:36] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-27 21:29:13] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Stage-Aware_Mixture_of_Experts_Framework_for_Neurodegenerative_Disease_Progres_2508_07032v1.pdf
+[2026-06-27 21:29:13] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Stage-Aware_Mixture_of_Experts_Framework_for_Neurodegenerative_Disease_Progres_2508_07032v1.pdf
+[2026-06-27 21:29:13] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-27 21:29:13] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-27 21:29:18] [Reader.LLM] [INFO]   ✓ 成功提取: A_Stage-Aware_Mixture_of_Experts_Framework_for_Neurodegenerative_Disease_Progres_2508_07032v1.pdf
+[2026-06-27 21:29:18] [Reader.LLM] [INFO]   ✓ 成功提取: A_Stage-Aware_Mixture_of_Experts_Framework_for_Neurodegenerative_Disease_Progres_2508_07032v1.pdf
+[2026-06-27 21:29:18] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: A_Survey_on_Inference_Optimization_Techniques_for_Mixture_of_Experts_Models_2412_14219v2.pdf
+[2026-06-27 21:29:18] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Inference_Optimization_Techniques_for_Mixture_of_Experts_Models_2412_14219v2.pdf
+[2026-06-27 21:29:18] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Inference_Optimization_Techniques_for_Mixture_of_Experts_Models_2412_14219v2.pdf
+[2026-06-27 21:29:18] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-27 21:29:18] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-27 21:36:17] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_on_Inference_Optimization_Techniques_for_Mixture_of_Experts_Models_2412_14219v2.pdf
+[2026-06-27 21:36:17] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_on_Inference_Optimization_Techniques_for_Mixture_of_Experts_Models_2412_14219v2.pdf
+[2026-06-27 21:36:17] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-27 21:36:17] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-06-27 21:36:22] [Reader.LLM] [INFO]   ✓ 成功提取: A_Survey_on_Inference_Optimization_Techniques_for_Mixture_of_Experts_Models_2412_14219v2.pdf
+[2026-06-27 21:36:22] [Reader.LLM] [INFO]   ✓ 成功提取: A_Survey_on_Inference_Optimization_Techniques_for_Mixture_of_Experts_Models_2412_14219v2.pdf
+[2026-06-27 21:36:22] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-06-27 21:36:22] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-06-27 21:36:22] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-06-27 21:36:22] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-06-27 21:36:22] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed

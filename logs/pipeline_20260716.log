@@ -1,0 +1,411 @@
+[2026-07-16 13:41:12] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: 刘江丽-初稿8.pdf
+[2026-07-16 13:41:12] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: 刘江丽-初稿8.pdf
+[2026-07-16 13:41:12] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: 刘江丽-初稿8.pdf
+[2026-07-16 13:41:12] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 13:41:12] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 13:45:42] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: 刘江丽-初稿8.pdf
+[2026-07-16 13:45:42] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: 刘江丽-初稿8.pdf
+[2026-07-16 13:45:42] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 13:45:42] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 13:45:48] [Reader.LLM] [INFO]   ✓ 成功提取: 刘江丽-初稿8.pdf
+[2026-07-16 13:45:48] [Reader.LLM] [INFO]   ✓ 成功提取: 刘江丽-初稿8.pdf
+[2026-07-16 14:57:48] [Planner] [INFO] 
+ [Planner] 正在分析主题: '复杂场景下多目标跟踪与视觉感知研究现状' ...
+[2026-07-16 15:00:08] [Planner] [INFO] 
+ [Planner] 正在分析主题: '多模态大模型与视觉轨迹校验研究现状' ...
+[2026-07-16 15:01:16] [Planner] [INFO] 
+ [Planner] 正在分析主题: '大语言模型与工业智能 Agent 决策系统研究现状' ...
+[2026-07-16 15:37:12] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: AVTrack_Audio-Visual_Tracking_in_Human-centric_Complex_Scenes_2606_02724v1.pdf
+[2026-07-16 15:37:12] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: AVTrack_Audio-Visual_Tracking_in_Human-centric_Complex_Scenes_2606_02724v1.pdf
+[2026-07-16 15:37:12] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: AVTrack_Audio-Visual_Tracking_in_Human-centric_Complex_Scenes_2606_02724v1.pdf
+[2026-07-16 15:37:12] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:37:12] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:37:34] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-07-16 15:37:34] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-07-16 15:37:34] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-07-16 15:37:34] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:37:34] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:38:06] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:38:06] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:38:06] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-07-16 15:38:06] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-07-16 15:38:06] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-07-16 15:38:06] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:38:06] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:38:11] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-07-16 15:38:11] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-07-16 15:38:11] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-07-16 15:38:11] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:38:11] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:38:24] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:38:24] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:38:24] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Applying_Ontologies_and_Knowledge_Augmented_Large_Language_Models_to_Industrial__2505_18553v1.pdf
+[2026-07-16 15:38:24] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Applying_Ontologies_and_Knowledge_Augmented_Large_Language_Models_to_Industrial__2505_18553v1.pdf
+[2026-07-16 15:38:24] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Applying_Ontologies_and_Knowledge_Augmented_Large_Language_Models_to_Industrial__2505_18553v1.pdf
+[2026-07-16 15:38:24] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:38:24] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:38:34] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:38:34] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:38:34] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Control_Industrial_Automation_System_with_Large_Language_Model_Agents_2409_18009v2.pdf
+[2026-07-16 15:38:34] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Control_Industrial_Automation_System_with_Large_Language_Model_Agents_2409_18009v2.pdf
+[2026-07-16 15:38:34] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Control_Industrial_Automation_System_with_Large_Language_Model_Agents_2409_18009v2.pdf
+[2026-07-16 15:38:34] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:38:34] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:38:43] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:38:43] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:38:43] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Efficient_Sequential_Decision_Making_with_Large_Language_Models_2406_12125v2.pdf
+[2026-07-16 15:38:43] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Efficient_Sequential_Decision_Making_with_Large_Language_Models_2406_12125v2.pdf
+[2026-07-16 15:38:43] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Efficient_Sequential_Decision_Making_with_Large_Language_Models_2406_12125v2.pdf
+[2026-07-16 15:38:43] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:38:43] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:38:48] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:38:48] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:38:48] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: An_Empirical_Analysis_of_Visual_Features_for_Multiple_Object_Tracking_in_Urban_S_2010_07881v1.pdf
+[2026-07-16 15:38:48] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: An_Empirical_Analysis_of_Visual_Features_for_Multiple_Object_Tracking_in_Urban_S_2010_07881v1.pdf
+[2026-07-16 15:38:48] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: An_Empirical_Analysis_of_Visual_Features_for_Multiple_Object_Tracking_in_Urban_S_2010_07881v1.pdf
+[2026-07-16 15:38:48] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:38:48] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:39:25] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:39:25] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:39:25] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: LLM-Cave_A_benchmark_and_light_environment_for_large_language_models_reasoning_a_2511_22598v1.pdf
+[2026-07-16 15:39:25] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: LLM-Cave_A_benchmark_and_light_environment_for_large_language_models_reasoning_a_2511_22598v1.pdf
+[2026-07-16 15:39:25] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: LLM-Cave_A_benchmark_and_light_environment_for_large_language_models_reasoning_a_2511_22598v1.pdf
+[2026-07-16 15:39:25] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:39:25] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:39:33] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:39:33] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:39:33] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Large_Language_Models_for_Water_Distribution_Systems_Modeling_and_Decision-Makin_2503_16191v2.pdf
+[2026-07-16 15:39:33] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Large_Language_Models_for_Water_Distribution_Systems_Modeling_and_Decision-Makin_2503_16191v2.pdf
+[2026-07-16 15:39:33] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Large_Language_Models_for_Water_Distribution_Systems_Modeling_and_Decision-Makin_2503_16191v2.pdf
+[2026-07-16 15:39:33] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:39:33] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:39:43] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:39:43] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:39:43] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: DynamicTrack_Advancing_Gigapixel_Tracking_in_Crowded_Scenes_2407_18637v1.pdf
+[2026-07-16 15:39:43] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: DynamicTrack_Advancing_Gigapixel_Tracking_in_Crowded_Scenes_2407_18637v1.pdf
+[2026-07-16 15:39:43] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: DynamicTrack_Advancing_Gigapixel_Tracking_in_Crowded_Scenes_2407_18637v1.pdf
+[2026-07-16 15:39:43] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:39:43] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:39:46] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:39:46] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:39:46] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: MetaAgents_Large_Language_Model_Based_Agents_for_Decision-Making_on_Teaming_2310_06500v2.pdf
+[2026-07-16 15:39:46] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: MetaAgents_Large_Language_Model_Based_Agents_for_Decision-Making_on_Teaming_2310_06500v2.pdf
+[2026-07-16 15:39:46] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: MetaAgents_Large_Language_Model_Based_Agents_for_Decision-Making_on_Teaming_2310_06500v2.pdf
+[2026-07-16 15:39:46] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:39:46] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:39:50] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:39:50] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:39:50] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-07-16 15:39:50] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-07-16 15:39:50] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-07-16 15:39:50] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:39:50] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:39:53] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:39:53] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:39:53] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-07-16 15:39:53] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-07-16 15:39:53] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-07-16 15:39:53] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:39:53] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:39:53] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:39:53] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:39:53] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Effect_of_acoustic_scene_complexity_and_visual_scene_representation_on_auditory__2106_15909v2.pdf
+[2026-07-16 15:39:53] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Effect_of_acoustic_scene_complexity_and_visual_scene_representation_on_auditory__2106_15909v2.pdf
+[2026-07-16 15:39:53] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Effect_of_acoustic_scene_complexity_and_visual_scene_representation_on_auditory__2106_15909v2.pdf
+[2026-07-16 15:39:53] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:39:53] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:40:11] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:40:11] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:40:11] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: FlowMOT_3D_Multi-Object_Tracking_by_Scene_Flow_Association_2012_07541v3.pdf
+[2026-07-16 15:40:11] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: FlowMOT_3D_Multi-Object_Tracking_by_Scene_Flow_Association_2012_07541v3.pdf
+[2026-07-16 15:40:11] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: FlowMOT_3D_Multi-Object_Tracking_by_Scene_Flow_Association_2012_07541v3.pdf
+[2026-07-16 15:40:11] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:40:11] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:40:54] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:40:54] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:40:54] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: MOT20_A_benchmark_for_multi_object_tracking_in_crowded_scenes_2003_09003v1.pdf
+[2026-07-16 15:40:54] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: MOT20_A_benchmark_for_multi_object_tracking_in_crowded_scenes_2003_09003v1.pdf
+[2026-07-16 15:40:54] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: MOT20_A_benchmark_for_multi_object_tracking_in_crowded_scenes_2003_09003v1.pdf
+[2026-07-16 15:40:54] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:40:54] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:42:09] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:42:09] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:42:09] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-07-16 15:42:09] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-07-16 15:42:09] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-07-16 15:42:09] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:42:09] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:42:50] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:42:50] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 1
+[2026-07-16 15:42:50] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-07-16 15:42:50] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-07-16 15:42:50] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-07-16 15:42:50] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:42:50] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:43:05] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 3221225786
+[2026-07-16 15:43:05] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 3221225786
+[2026-07-16 15:43:05] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Object_Finding_in_Cluttered_Scenes_Using_Interactive_Perception_1911_07482v2.pdf
+[2026-07-16 15:43:05] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Object_Finding_in_Cluttered_Scenes_Using_Interactive_Perception_1911_07482v2.pdf
+[2026-07-16 15:43:05] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Object_Finding_in_Cluttered_Scenes_Using_Interactive_Perception_1911_07482v2.pdf
+[2026-07-16 15:43:05] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:43:05] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:43:10] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 3221225786
+[2026-07-16 15:45:29] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 120
+[2026-07-16 15:45:29] [Reader.MinerU] [ERROR]   ❌ [MinerU] 解析失败，退出码: 120
+[2026-07-16 15:49:46] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: AVTrack_Audio-Visual_Tracking_in_Human-centric_Complex_Scenes_2606_02724v1.pdf
+[2026-07-16 15:49:46] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: AVTrack_Audio-Visual_Tracking_in_Human-centric_Complex_Scenes_2606_02724v1.pdf
+[2026-07-16 15:49:46] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: AVTrack_Audio-Visual_Tracking_in_Human-centric_Complex_Scenes_2606_02724v1.pdf
+[2026-07-16 15:49:46] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:49:46] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:55:40] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: AVTrack_Audio-Visual_Tracking_in_Human-centric_Complex_Scenes_2606_02724v1.pdf
+[2026-07-16 15:55:40] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: AVTrack_Audio-Visual_Tracking_in_Human-centric_Complex_Scenes_2606_02724v1.pdf
+[2026-07-16 15:55:40] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 15:55:40] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 15:55:46] [Reader.LLM] [INFO]   ✓ 成功提取: AVTrack_Audio-Visual_Tracking_in_Human-centric_Complex_Scenes_2606_02724v1.pdf
+[2026-07-16 15:55:46] [Reader.LLM] [INFO]   ✓ 成功提取: AVTrack_Audio-Visual_Tracking_in_Human-centric_Complex_Scenes_2606_02724v1.pdf
+[2026-07-16 15:55:46] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-07-16 15:55:46] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-07-16 15:55:46] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-07-16 15:55:46] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 15:55:46] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:04:06] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-07-16 16:04:06] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-07-16 16:04:06] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:04:06] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:04:10] [Reader.LLM] [INFO]   ✓ 成功提取: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-07-16 16:04:10] [Reader.LLM] [INFO]   ✓ 成功提取: A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf
+[2026-07-16 16:04:10] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: An_Empirical_Analysis_of_Visual_Features_for_Multiple_Object_Tracking_in_Urban_S_2010_07881v1.pdf
+[2026-07-16 16:04:10] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: An_Empirical_Analysis_of_Visual_Features_for_Multiple_Object_Tracking_in_Urban_S_2010_07881v1.pdf
+[2026-07-16 16:04:10] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: An_Empirical_Analysis_of_Visual_Features_for_Multiple_Object_Tracking_in_Urban_S_2010_07881v1.pdf
+[2026-07-16 16:04:10] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:04:10] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:07:57] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: An_Empirical_Analysis_of_Visual_Features_for_Multiple_Object_Tracking_in_Urban_S_2010_07881v1.pdf
+[2026-07-16 16:07:57] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: An_Empirical_Analysis_of_Visual_Features_for_Multiple_Object_Tracking_in_Urban_S_2010_07881v1.pdf
+[2026-07-16 16:07:57] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:07:57] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:08:01] [Reader.LLM] [INFO]   ✓ 成功提取: An_Empirical_Analysis_of_Visual_Features_for_Multiple_Object_Tracking_in_Urban_S_2010_07881v1.pdf
+[2026-07-16 16:08:01] [Reader.LLM] [INFO]   ✓ 成功提取: An_Empirical_Analysis_of_Visual_Features_for_Multiple_Object_Tracking_in_Urban_S_2010_07881v1.pdf
+[2026-07-16 16:08:01] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: DynamicTrack_Advancing_Gigapixel_Tracking_in_Crowded_Scenes_2407_18637v1.pdf
+[2026-07-16 16:08:01] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: DynamicTrack_Advancing_Gigapixel_Tracking_in_Crowded_Scenes_2407_18637v1.pdf
+[2026-07-16 16:08:01] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: DynamicTrack_Advancing_Gigapixel_Tracking_in_Crowded_Scenes_2407_18637v1.pdf
+[2026-07-16 16:08:01] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:08:01] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:14:17] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: DynamicTrack_Advancing_Gigapixel_Tracking_in_Crowded_Scenes_2407_18637v1.pdf
+[2026-07-16 16:14:17] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: DynamicTrack_Advancing_Gigapixel_Tracking_in_Crowded_Scenes_2407_18637v1.pdf
+[2026-07-16 16:14:17] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:14:17] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:14:20] [Reader.LLM] [INFO]   ✓ 成功提取: DynamicTrack_Advancing_Gigapixel_Tracking_in_Crowded_Scenes_2407_18637v1.pdf
+[2026-07-16 16:14:20] [Reader.LLM] [INFO]   ✓ 成功提取: DynamicTrack_Advancing_Gigapixel_Tracking_in_Crowded_Scenes_2407_18637v1.pdf
+[2026-07-16 16:14:20] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Effect_of_acoustic_scene_complexity_and_visual_scene_representation_on_auditory__2106_15909v2.pdf
+[2026-07-16 16:14:20] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Effect_of_acoustic_scene_complexity_and_visual_scene_representation_on_auditory__2106_15909v2.pdf
+[2026-07-16 16:14:20] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Effect_of_acoustic_scene_complexity_and_visual_scene_representation_on_auditory__2106_15909v2.pdf
+[2026-07-16 16:14:20] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:14:20] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:17:35] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Effect_of_acoustic_scene_complexity_and_visual_scene_representation_on_auditory__2106_15909v2.pdf
+[2026-07-16 16:17:35] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Effect_of_acoustic_scene_complexity_and_visual_scene_representation_on_auditory__2106_15909v2.pdf
+[2026-07-16 16:17:35] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:17:35] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:17:39] [Reader.LLM] [INFO]   ✓ 成功提取: Effect_of_acoustic_scene_complexity_and_visual_scene_representation_on_auditory__2106_15909v2.pdf
+[2026-07-16 16:17:39] [Reader.LLM] [INFO]   ✓ 成功提取: Effect_of_acoustic_scene_complexity_and_visual_scene_representation_on_auditory__2106_15909v2.pdf
+[2026-07-16 16:17:39] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: FlowMOT_3D_Multi-Object_Tracking_by_Scene_Flow_Association_2012_07541v3.pdf
+[2026-07-16 16:17:39] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: FlowMOT_3D_Multi-Object_Tracking_by_Scene_Flow_Association_2012_07541v3.pdf
+[2026-07-16 16:17:39] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: FlowMOT_3D_Multi-Object_Tracking_by_Scene_Flow_Association_2012_07541v3.pdf
+[2026-07-16 16:17:39] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:17:39] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:20:43] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: FlowMOT_3D_Multi-Object_Tracking_by_Scene_Flow_Association_2012_07541v3.pdf
+[2026-07-16 16:20:43] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: FlowMOT_3D_Multi-Object_Tracking_by_Scene_Flow_Association_2012_07541v3.pdf
+[2026-07-16 16:20:43] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:20:43] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:20:47] [Reader.LLM] [INFO]   ✓ 成功提取: FlowMOT_3D_Multi-Object_Tracking_by_Scene_Flow_Association_2012_07541v3.pdf
+[2026-07-16 16:20:47] [Reader.LLM] [INFO]   ✓ 成功提取: FlowMOT_3D_Multi-Object_Tracking_by_Scene_Flow_Association_2012_07541v3.pdf
+[2026-07-16 16:20:47] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: MOT20_A_benchmark_for_multi_object_tracking_in_crowded_scenes_2003_09003v1.pdf
+[2026-07-16 16:20:47] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: MOT20_A_benchmark_for_multi_object_tracking_in_crowded_scenes_2003_09003v1.pdf
+[2026-07-16 16:20:47] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: MOT20_A_benchmark_for_multi_object_tracking_in_crowded_scenes_2003_09003v1.pdf
+[2026-07-16 16:20:47] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:20:47] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:23:05] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: MOT20_A_benchmark_for_multi_object_tracking_in_crowded_scenes_2003_09003v1.pdf
+[2026-07-16 16:23:05] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: MOT20_A_benchmark_for_multi_object_tracking_in_crowded_scenes_2003_09003v1.pdf
+[2026-07-16 16:23:05] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:23:05] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:23:11] [Reader.LLM] [INFO]   ✓ 成功提取: MOT20_A_benchmark_for_multi_object_tracking_in_crowded_scenes_2003_09003v1.pdf
+[2026-07-16 16:23:11] [Reader.LLM] [INFO]   ✓ 成功提取: MOT20_A_benchmark_for_multi_object_tracking_in_crowded_scenes_2003_09003v1.pdf
+[2026-07-16 16:23:12] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-07-16 16:23:12] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-07-16 16:23:12] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-07-16 16:23:12] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:23:12] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:30:07] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-07-16 16:30:07] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-07-16 16:30:07] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:30:07] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:30:10] [Reader.LLM] [INFO]   ✓ 成功提取: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-07-16 16:30:10] [Reader.LLM] [INFO]   ✓ 成功提取: Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf
+[2026-07-16 16:30:10] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-07-16 16:30:10] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-07-16 16:30:10] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-07-16 16:30:10] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:30:10] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:32:12] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-07-16 16:32:12] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-07-16 16:32:12] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:32:12] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:32:16] [Reader.LLM] [INFO]   ✓ 成功提取: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-07-16 16:32:16] [Reader.LLM] [INFO]   ✓ 成功提取: MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf
+[2026-07-16 16:32:16] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Object_Finding_in_Cluttered_Scenes_Using_Interactive_Perception_1911_07482v2.pdf
+[2026-07-16 16:32:16] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Object_Finding_in_Cluttered_Scenes_Using_Interactive_Perception_1911_07482v2.pdf
+[2026-07-16 16:32:16] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Object_Finding_in_Cluttered_Scenes_Using_Interactive_Perception_1911_07482v2.pdf
+[2026-07-16 16:32:16] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:32:16] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:34:30] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Object_Finding_in_Cluttered_Scenes_Using_Interactive_Perception_1911_07482v2.pdf
+[2026-07-16 16:34:30] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Object_Finding_in_Cluttered_Scenes_Using_Interactive_Perception_1911_07482v2.pdf
+[2026-07-16 16:34:30] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:34:30] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:34:34] [Reader.LLM] [INFO]   ✓ 成功提取: Object_Finding_in_Cluttered_Scenes_Using_Interactive_Perception_1911_07482v2.pdf
+[2026-07-16 16:34:34] [Reader.LLM] [INFO]   ✓ 成功提取: Object_Finding_in_Cluttered_Scenes_Using_Interactive_Perception_1911_07482v2.pdf
+[2026-07-16 16:34:34] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: PMoE_Progressive_Mixture_of_Experts_with_Asymmetric_Transformer_for_Continual_Le_2407_21571v1.pdf
+[2026-07-16 16:34:34] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: PMoE_Progressive_Mixture_of_Experts_with_Asymmetric_Transformer_for_Continual_Le_2407_21571v1.pdf
+[2026-07-16 16:34:34] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: PMoE_Progressive_Mixture_of_Experts_with_Asymmetric_Transformer_for_Continual_Le_2407_21571v1.pdf
+[2026-07-16 16:34:34] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:34:34] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:37:54] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: PMoE_Progressive_Mixture_of_Experts_with_Asymmetric_Transformer_for_Continual_Le_2407_21571v1.pdf
+[2026-07-16 16:37:54] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: PMoE_Progressive_Mixture_of_Experts_with_Asymmetric_Transformer_for_Continual_Le_2407_21571v1.pdf
+[2026-07-16 16:37:54] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:37:54] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:37:58] [Reader.LLM] [INFO]   ✓ 成功提取: PMoE_Progressive_Mixture_of_Experts_with_Asymmetric_Transformer_for_Continual_Le_2407_21571v1.pdf
+[2026-07-16 16:37:58] [Reader.LLM] [INFO]   ✓ 成功提取: PMoE_Progressive_Mixture_of_Experts_with_Asymmetric_Transformer_for_Continual_Le_2407_21571v1.pdf
+[2026-07-16 16:37:58] [Reader] [INFO] 
+  [Reader] 正在处理 PDF: Visual_Path_Tracking_Control_for_Park_Scene_1805_01184v2.pdf
+[2026-07-16 16:37:58] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Visual_Path_Tracking_Control_for_Park_Scene_1805_01184v2.pdf
+[2026-07-16 16:37:58] [Reader.MinerU] [INFO] 
+  [MinerU] 正在解析: Visual_Path_Tracking_Control_for_Park_Scene_1805_01184v2.pdf
+[2026-07-16 16:37:58] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:37:58] [Reader.MinerU] [INFO]   [MinerU] 输出目录: mineru_parsed
+[2026-07-16 16:40:10] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Visual_Path_Tracking_Control_for_Park_Scene_1805_01184v2.pdf
+[2026-07-16 16:40:10] [Reader.MinerU] [INFO]   ✅ [MinerU] 解析成功: Visual_Path_Tracking_Control_for_Park_Scene_1805_01184v2.pdf
+[2026-07-16 16:40:10] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:40:10] [Reader.LLM] [INFO] 
+  [LLM] 正在从 Markdown 中提取结构化信息...
+[2026-07-16 16:40:15] [Reader.LLM] [INFO]   ✓ 成功提取: Visual_Path_Tracking_Control_for_Park_Scene_1805_01184v2.pdf
+[2026-07-16 16:40:15] [Reader.LLM] [INFO]   ✓ 成功提取: Visual_Path_Tracking_Control_for_Park_Scene_1805_01184v2.pdf

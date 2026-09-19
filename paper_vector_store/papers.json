@@ -1,0 +1,281 @@
+[
+  {
+    "filename": "A_Survey_on_Mixture_of_Experts_in_Large_Language_Models_2407_06204v3.pdf",
+    "title": "A Survey on Mixture of Experts in Large Language Models",
+    "authors": [
+      "Weilin Cai",
+      "Juyong Jiang",
+      "Fan Wang",
+      "Jing Tang",
+      "Sunghun Kim",
+      "Jiayi Huang"
+    ],
+    "year": "未提及",
+    "research_background": "大型语言模型（LLM）在多个领域取得显著进展，其能力依赖于巨大的模型规模、数据和计算资源。混合专家（MoE）方法能在最小计算开销下大幅扩展模型容量，但缺乏系统综述。本文旨在填补这一空白。",
+    "core_method": "本文提出了一种新的MoE分类法，将进展分为算法、系统和应用三类。算法方面重点介绍了用MoE层替代Transformer中的FFN层，包括门控函数和专家网络的设计，以及软MoE、混合参数高效专家等变体。系统方面涵盖计算、通信和存储优化。应用方面涉及NLP、计算机视觉、推荐系统和多模态。",
+    "key_experiments": "本文未提供新的实验，而是对现有MoE模型（如Mixtral-8x7B、Grok-1、DBRX、DeepSeek-V2等）进行了综述，收集了开源实现、超参数配置和实证评估。",
+    "limitations": "未提及",
+    "my_notes": "本文提出了一个清晰的MoE分类法（算法、系统、应用），并系统梳理了从门控函数到系统优化的全链路设计，为后续研究提供了结构化参考。",
+    "abstract": "Large language models (LLMs) have garnered unprecedented advancements across diverse fields, ranging from natural language processing to computer vision and beyond. The prowess of LLMs is underpinned by their substantial model size, extensive and diverse datasets, and the vast computational power harnessed during training, all of which contribute to the emergent abilities of LLMs (e.g., in-context learning) that are not present in small models. Within this context, the mixture of experts (MoE) h",
+    "published": "2024-06-26",
+    "arxiv_id": "2407.06204v3",
+    "pdf_url": "https://arxiv.org/pdf/2407.06204v3",
+    "citation_count": 0
+  },
+  {
+    "filename": "Mixture-of-Experts_in_Remote_Sensing_A_Survey_2604_03342v1.pdf",
+    "title": "Mixture-of-Experts in Remote Sensing: A Survey",
+    "authors": [
+      "Yongchuan Cui",
+      "Peng Liu",
+      "Lajiao Chen"
+    ],
+    "year": "未提及",
+    "research_background": "遥感数据因传感器模态多样、时空动态复杂，传统深度学习方法难以泛化。混合专家模型通过动态路由将输入分配给专门专家，有望解决这些挑战，但缺乏系统综述。",
+    "core_method": "系统综述MoE在遥感中的应用，包括专家设计、门控策略和训练方法。涵盖稀疏门控MoE、多模态MoE（如MixtureRS、M²CD）、MoE基础模型（如RingMoE）等，用于分类、检测、变化检测、多模态融合等任务。",
+    "key_experiments": "基于2016-2025年间57篇核心MoE遥感论文的词云分析，显示MoE主要用于多模态、多尺度分类和分割，较少涉及时间建模和基础模型。",
+    "limitations": "未提及",
+    "my_notes": "首次系统梳理MoE在遥感中的应用，涵盖多模态融合、变化检测等关键任务，为后续研究提供清晰框架和未来方向。",
+    "abstract": "Remote sensing data analysis and interpretation present unique challenges due to the diversity in sensor modalities and spatiotemporal dynamics of Earth observation data. Mixture-of-Experts (MoE) model has emerged as a powerful paradigm that addresses these challenges by dynamically routing inputs to specialized experts designed for different aspects of a task. However, despite rapid progress, the community still lacks a comprehensive review of MoE for remote sensing. This survey provides the fi",
+    "published": "2026-04-03",
+    "arxiv_id": "2604.03342v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.03342v1",
+    "citation_count": 0
+  },
+  {
+    "filename": "MoECollab_Democratizing_LLM_Development_Through_Collaborative_Mixture_of_Experts_2503_12592v1.pdf",
+    "title": "MoECollab: Democratizing LLM Development Through Collaborative Mixture of Experts",
+    "authors": [
+      "Harshit"
+    ],
+    "year": "2025",
+    "research_background": "LLM开发日益集中，仅限资源充足的组织参与，限制了创新和包容性。现有协作方式（如开源微调）贡献层次有限。本文提出MoECollab框架，利用混合专家（MoE）架构的模块化特性，实现分布式、协作式LLM开发。",
+    "core_method": "MoECollab框架包含三个核心组件：1) 专家模块：基于Transformer的适配器（adapter）微调，参数高效；2) 门控网络：通过softmax计算专家概率分布，并引入熵正则化（公式3）平衡任务损失与专家利用率；3) 张量集成：采用动态填充（公式4）处理异构专家输出，加权求和得到最终输出（公式5）。",
+    "key_experiments": "在SST-2、LexGLUE、AG News等数据集上评估，使用BERT-base-uncased（适配器大小k=64），4个专家+1个门控网络。MoECollab相比基线模型准确率提升3-7%，计算需求降低34%。专家专业化带来显著领域增益：通用分类F1从51%提升至88%，新闻分类准确率从23%提升至44%。熵正则化使专家利用率提高14%。",
+    "limitations": "未提及",
+    "my_notes": "利用MoE架构的模块化特性实现协作开发，通过适配器微调降低资源门槛，熵正则化平衡专家利用率，动态填充处理异构输出，为分布式LLM开发提供了可落地的技术方案。",
+    "abstract": "Large Language Model (LLM) development has become increasingly centralized, limiting participation to well-resourced organizations. This paper introduces MoECollab, a novel framework leveraging Mixture of Experts (MoE) architecture to enable distributed, collaborative LLM development. By decomposing monolithic models into specialized expert modules coordinated by a trainable gating network, our framework allows diverse contributors to participate regardless of computational resources. We provide",
+    "published": "2025-03-16",
+    "arxiv_id": "2503.12592v1",
+    "pdf_url": "https://arxiv.org/pdf/2503.12592v1",
+    "citation_count": 0
+  },
+  {
+    "filename": "PMoE_Progressive_Mixture_of_Experts_with_Asymmetric_Transformer_for_Continual_Le_2407_21571v1.pdf",
+    "title": "PMoE: Progressive Mixture of Experts with Asymmetric Transformer for Continual Learning",
+    "authors": [
+      "Min Jae Jung",
+      "JooHee Kim"
+    ],
+    "year": "未提及",
+    "research_background": "大型语言模型在持续学习中面临灾难性遗忘问题，导致环境和经济浪费。现有方法（回放、正则化、架构）仍存在遗忘或需要任务ID等先验信息。",
+    "core_method": "提出PMoE，采用非对称深度设计：浅层保留通用知识（单LoRA），深层逐步添加专家（多LoRA）获取新知识。路由器位于浅深层边界，利用深层聚合特征高效分配新知识到对应专家，无需辅助损失。",
+    "key_experiments": "在TRACE数据集（8个任务，每任务5000样本）上评估，使用Llama2-7b，LoRA秩4，阈值τ=24，学习率3e-4，AdamW优化器。在MMLU、GSM等5个通用基准上测量通用能力变化。",
+    "limitations": "未提及",
+    "my_notes": "非对称深度设计（浅层通用+深层专家）有效平衡参数效率与路由性能，无需任务ID即可持续学习，值得借鉴。",
+    "abstract": "Large Language Models (LLMs) encounter significant challenges in continual learning due to catastrophic forgetting, where new information overwrites previously acquired knowledge. This limitation leads to substantial environmental and economic waste. In this study, we introduce the PMoE, Progressive Mixture of Experts with Asymmetric Transformer, which aims to minimize forgetting by utilizing an asymmetric design with shallow layers dedicated to general knowledge and deep layers for new knowledg",
+    "published": "2024-07-31",
+    "arxiv_id": "2407.21571v1",
+    "pdf_url": "https://arxiv.org/pdf/2407.21571v1",
+    "citation_count": 0
+  },
+  {
+    "filename": "刘江丽-初稿8.pdf",
+    "title": "LogiTrack: Effective Warehouse Multi-Object Tracking via Adaptive Orthogonal Attention and Motion-Compensated OC-SORT",
+    "authors": [
+      "Jiangli Liu",
+      "Hongrui Chang",
+      "Kunfeng Wang"
+    ],
+    "year": "未提及",
+    "research_background": "针对智能仓库巡检中目标外观相似、密集遮挡、视角变化导致的形变和尺度变化等挑战，提出基于YOLO11s和OC-SORT的协同多目标跟踪框架。",
+    "core_method": "提出LogiTrack框架，包含：1) LogiYOLO检测器，引入自适应正交区域注意力(AORA)和ORAC3K2模块，并增加细粒度检测层构建P2-P5特征金字塔；2) 混合策略非极大值抑制(HA-NMS)；3) 运动补偿驱动的轨迹记忆机制(MC-SORT)。",
+    "key_experiments": "在自建LogiMOT-RGB数据集上评估，检测任务mAP50和mAP50-95分别提升5.19%和7.83%；跟踪任务MOTA和HOTA分别提升1.57%和3.05%，身份切换次数从29降至11。",
+    "limitations": "未提及",
+    "my_notes": "针对仓库场景的密集遮挡和小目标问题，设计了AORA注意力机制和HA-NMS策略，并引入运动补偿改进OC-SORT，方法系统且实用。",
+    "abstract": "",
+    "published": "",
+    "arxiv_id": "",
+    "pdf_url": "",
+    "citation_count": 0
+  },
+  {
+    "filename": "AVTrack_Audio-Visual_Tracking_in_Human-centric_Complex_Scenes_2606_02724v1.pdf",
+    "title": "AVTrack: Audio-Visual Tracking in Human-centric Complex Scenes",
+    "authors": [
+      "Yaoting Wang",
+      "Yun Zhou",
+      "Zipei Zhang",
+      "Henghui Ding"
+    ],
+    "year": "未提及",
+    "research_background": "现有音频-视觉跟踪数据集多局限于简单静态场景，无法评估模型在复杂动态环境中的鲁棒性。本文提出AVTrack基准，聚焦人类中心的复杂场景，以推动细粒度多模态场景理解。",
+    "core_method": "提出AVTrack基准数据集，包含871个视频片段、3120个实例轨迹，涵盖8种挑战条件（如相机运动、视觉遮挡、多实例）。同时提供一个简单有效的基线框架，具有模块化、即插即用的可扩展性。",
+    "key_experiments": "在AVTrack上评估了代表性VIS和AVIS方法，观察到相比现有数据集显著的性能下降，验证了AVTrack作为更具挑战性测试床的有效性。",
+    "limitations": "未提及",
+    "my_notes": "AVTrack专注于人类中心复杂场景，定义了8种挑战条件，为评估音频-视觉实例分割的鲁棒性提供了更真实的基准。",
+    "abstract": "Audio-visual speaker tracking aims to localize and track active speakers by leveraging auditory and visual cues, enabling fine-grained, human-centric scene understanding. This capability is essential for real-world applications such as intelligent video editing, surveillance, and human-computer interaction. However, existing datasets are largely limited to simple or homogeneous audio-visual scenes with coarse annotations. Such oversimplified settings bias evaluation toward static audio-visual co",
+    "published": "2026-06-01",
+    "arxiv_id": "2606.02724v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.02724v1",
+    "citation_count": 0
+  },
+  {
+    "filename": "An_Empirical_Analysis_of_Visual_Features_for_Multiple_Object_Tracking_in_Urban_S_2010_07881v1.pdf",
+    "title": "An Empirical Analysis of Visual Features for Multiple Object Tracking in Urban Scenes",
+    "authors": [
+      "Mehdi Miah",
+      "Justine Pepin",
+      "Nicolas Saunier",
+      "Guillaume-Alexandre Bilodeau"
+    ],
+    "year": "未提及",
+    "research_background": "城市场景中多目标跟踪（MOT）需要选择外观特征，但不同特征（如颜色直方图、HOG、CNN深度特征、ReID特征）的优劣尚不明确。本文旨在评估这些特征在区分检测框内对象时的表现。",
+    "core_method": "提出一种评估方法：对检测框内对象提取特征（RGB/灰度直方图、HOG、VGG-19/ResNet-18/DenseNet-121/EfficientNet-B0的CNN特征、OSNet-AIN/车辆ReID特征），使用L1/L2/Bhattacharyya距离、Rank-1计数和余弦相似度等亲和度量计算相似度，仅基于外观特征进行匹配，排除空间和运动信息干扰。",
+    "key_experiments": "在四个MOT数据集上比较特征和亲和度量。核心指标为匹配准确率。实验分析了检测器质量、对象大小、时间间隔对特征判别力的影响。",
+    "limitations": "未提及",
+    "my_notes": "系统比较了多种视觉特征和亲和度量，并分析了检测器质量、对象大小和时间间隔的影响，为MOT中特征选择提供了实证依据。",
+    "abstract": "This paper addresses the problem of selecting appearance features for multiple object tracking (MOT) in urban scenes. Over the years, a large number of features has been used for MOT. However, it is not clear whether some of them are better than others. Commonly used features are color histograms, histograms of oriented gradients, deep features from convolutional neural networks and re-identification (ReID) features. In this study, we assess how good these features are at discriminating objects ",
+    "published": "2020-10-15",
+    "arxiv_id": "2010.07881v1",
+    "pdf_url": "https://arxiv.org/pdf/2010.07881v1",
+    "citation_count": 0
+  },
+  {
+    "filename": "DynamicTrack_Advancing_Gigapixel_Tracking_in_Crowded_Scenes_2407_18637v1.pdf",
+    "title": "DynamicTrack: Advancing Gigapixel Tracking in Crowded Scenes",
+    "authors": [
+      "Yunqi Zhao",
+      "Kai Ni",
+      "Yuchen Guo",
+      "Ruqi Huang",
+      "Zheng Cao",
+      "Lu Fang"
+    ],
+    "year": "未提及",
+    "research_background": "Gigapixel图像在拥挤场景中的跟踪面临复杂交互和严重遮挡问题，现有方法性能显著下降。",
+    "core_method": "提出DynamicTrack框架，包含动态检测器和动态关联算法。动态检测器基于对比学习联合检测行人头部和身体；动态关联算法以身体为核心、头部为辅助进行匹配。",
+    "key_experiments": "在Crowdhuman数据集上评估联合检测性能，在MOT20和PANDA数据集上评估跟踪性能，与最先进方法比较。",
+    "limitations": "未提及",
+    "my_notes": "利用头部不易遮挡的特性进行头-身体联合检测与关联，有效提升拥挤场景跟踪鲁棒性。",
+    "abstract": "Tracking in gigapixel scenarios holds numerous potential applications in video surveillance and pedestrian analysis. Existing algorithms attempt to perform tracking in crowded scenes by utilizing multiple cameras or group relationships. However, their performance significantly degrades when confronted with complex interaction and occlusion inherent in gigapixel images. In this paper, we introduce DynamicTrack, a dynamic tracking framework designed to address gigapixel tracking challenges in crow",
+    "published": "2024-07-26",
+    "arxiv_id": "2407.18637v1",
+    "pdf_url": "https://arxiv.org/pdf/2407.18637v1",
+    "citation_count": 0
+  },
+  {
+    "filename": "Effect_of_acoustic_scene_complexity_and_visual_scene_representation_on_auditory__2106_15909v2.pdf",
+    "title": "Effect of Acoustic Scene Complexity and Visual Scene Representation on Auditory Perception in Virtual Audio-Visual Environments",
+    "authors": [
+      "Stefan Fichna",
+      "Bernhard U. Seeber",
+      "Thomas Biberger",
+      "Stephan D. Ewert"
+    ],
+    "year": "未提及",
+    "research_background": "日常社交和听觉交流常发生在复杂声学环境中，虚拟现实技术用于提高生态效度。本研究探讨场景复杂度和视觉呈现对听觉感知的影响，并评估头戴显示器对HRTF的潜在干扰。",
+    "core_method": "使用86通道扬声器阵列渲染声场，结合头戴显示器呈现立体视觉场景。场景包含8个虚拟扬声器，播放目标语音和干扰语音，模拟消声（雪地）和混响（阁楼公寓，T60≈1.5秒）环境。通过孤立连续测量或同时测量五种心理声学指标（言语清晰度、距离感知、方向感知、响度、听努力）来改变任务复杂度。",
+    "key_experiments": "12名正常听力受试者参与实验。主要指标包括言语清晰度、距离感知、方向感知、响度、听努力。比较了有无HMD、不同掩蔽声数量、方向、距离、混响和任务复杂度（孤立连续测量 vs 同时测量）的影响。",
+    "limitations": "未提及",
+    "my_notes": "亮点在于同时评估多种心理声学指标，并比较孤立与同时测量方法的效率与一致性，且虚拟环境可直接对应真实房间，便于1:1验证。",
+    "abstract": "",
+    "published": "",
+    "arxiv_id": "",
+    "pdf_url": "",
+    "citation_count": 0
+  },
+  {
+    "filename": "FlowMOT_3D_Multi-Object_Tracking_by_Scene_Flow_Association_2012_07541v3.pdf",
+    "title": "FlowMOT: 3D Multi-Object Tracking by Scene Flow Association",
+    "authors": [
+      "Guangyao Zhai",
+      "Xin Kong",
+      "Jinhao Cui",
+      "Yong Liu",
+      "Zhen Yang"
+    ],
+    "year": "未提及",
+    "research_background": "现有端到端3D多目标跟踪方法精度低、泛化能力差；传统滤波方法虽效果好但超参数难调，在不同场景下易失效。本文提出FlowMOT，将场景流与匹配算法结合，增强运动预测鲁棒性。",
+    "core_method": "提出FlowMOT框架，包含运动估计和运动跟踪模块。利用场景流估计网络获取相邻帧点云的运动信息，计算旧轨迹的预测检测；采用匈牙利算法和ID传播策略进行数据关联，替代卡尔曼滤波，避免超参数调整。",
+    "key_experiments": "在KITTI MOT数据集上评估，与最新端到端方法和基于滤波的方法对比。FlowMOT在多种速度场景下表现稳定，优于端到端方法，与最先进滤波方法性能相当。",
+    "limitations": "未提及",
+    "my_notes": "将学习型场景流估计引入3D MOT，替代传统滤波方法，实现自适应运动模型，避免超参数调优，在变速场景下鲁棒性更强。",
+    "abstract": "Most end-to-end Multi-Object Tracking (MOT) methods face the problems of low accuracy and poor generalization ability. Although traditional filter-based methods can achieve better results, they are difficult to be endowed with optimal hyperparameters and often fail in varying scenarios. To alleviate these drawbacks, we propose a LiDAR-based 3D MOT framework named FlowMOT, which integrates point-wise motion information with the traditional matching algorithm, enhancing the robustness of the motio",
+    "published": "2020-12-14",
+    "arxiv_id": "2012.07541v3",
+    "pdf_url": "https://arxiv.org/pdf/2012.07541v3",
+    "citation_count": 0
+  },
+  {
+    "filename": "MOT20_A_benchmark_for_multi_object_tracking_in_crowded_scenes_2003_09003v1.pdf",
+    "title": "MOT20: A benchmark for multi object tracking in crowded scenes",
+    "authors": [
+      "Patrick Dendorfer",
+      "Hamid Rezatofighi",
+      "Anton Milan",
+      "Javen Shi",
+      "Daniel Cremers",
+      "Ian Reid",
+      "Stefan Roth",
+      "Konrad Schindler",
+      "Laura Leal-Taixé"
+    ],
+    "year": "2019",
+    "research_background": "MOTChallenge自2014年发布以来，提供了标准化的多目标跟踪评估。现有基准场景密度较低，缺乏对极端拥挤场景的挑战。本文提出MOT20基准，包含8个新序列，密度高达每帧246人，旨在推动拥挤场景下的多目标跟踪研究。",
+    "core_method": "本文主要贡献是构建了MOT20基准数据集，包含8个来自3个不同场景的高分辨率序列（训练和测试各4个），其中测试集包含一个未知场景以评估泛化能力。数据集遵循MOT16的标注协议，对移动行人、静态人员、车辆和遮挡物进行标注。提供了基于Faster R-CNN的公共检测结果。",
+    "key_experiments": "数据集包含8个序列，训练集共8931帧，1134614个边界框，平均密度127.04人/帧；测试集共4479帧，517426个边界框，平均密度115.52人/帧。序列涵盖室内外、白天和夜间场景。与MOT17相比，训练和测试的边界框数量增加了约3倍，密度增加了10倍。",
+    "limitations": "未提及",
+    "my_notes": "该基准专门针对极端拥挤场景（密度高达246人/帧），填补了现有基准的空白。通过包含未知场景的测试集来评估泛化能力，设计合理。",
+    "abstract": "Standardized benchmarks are crucial for the majority of computer vision applications. Although leaderboards and ranking tables should not be over-claimed, benchmarks often provide the most objective measure of performance and are therefore important guides for research. The benchmark for Multiple Object Tracking, MOTChallenge, was launched with the goal to establish a standardized evaluation of multiple object tracking methods. The challenge focuses on multiple people tracking, since pedestrians",
+    "published": "2020-03-19",
+    "arxiv_id": "2003.09003v1",
+    "pdf_url": "https://arxiv.org/pdf/2003.09003v1",
+    "citation_count": 0
+  },
+  {
+    "filename": "Object_Finding_in_Cluttered_Scenes_Using_Interactive_Perception_1911_07482v2.pdf",
+    "title": "Object Finding in Cluttered Scenes Using Interactive Perception",
+    "authors": [
+      "Tonci Novkovic",
+      "Remi Pautrat",
+      "Fadri Furrer",
+      "Michel Breyer",
+      "Roland Siegwart",
+      "Juan Nieto"
+    ],
+    "year": "未提及",
+    "research_background": "机器人寻找杂乱场景中的目标物体需要感知和物理交互。现有方法多依赖预定义启发式规则，缺乏高效搜索能力。本文提出基于强化学习的主动交互感知系统，以去除启发式规则和显式交互模型。",
+    "core_method": "采用模型无关的强化学习算法，将RGB-D传感器数据编码为离散化截断符号距离场（TSDF）体积表示和颜色检测结果，构成状态向量。智能体根据当前状态和过去经验，通过策略网络输出末端执行器位移动作，实现目标搜索。",
+    "key_experiments": "在仿真和真实环境中使用配备RGB和深度摄像头的机械臂进行实验，与两种基线方法比较。核心指标为成功率，在真实环境中超过88%。训练仅在仿真中进行，策略可平滑迁移到现实。",
+    "limitations": "未提及",
+    "my_notes": "利用强化学习实现无需显式交互模型的主动感知，压缩的TSDF状态表示简洁有效，仿真训练直接迁移到真实环境，实用性强。",
+    "abstract": "Object finding in clutter is a skill that requires perception of the environment and in many cases physical interaction. In robotics, interactive perception defines a set of algorithms that leverage actions to improve the perception of the environment, and vice versa use perception to guide the next action. Scene interactions are difficult to model, therefore, most of the current systems use predefined heuristics. This limits their ability to efficiently search for the target object in a complex",
+    "published": "2019-11-18",
+    "arxiv_id": "1911.07482v2",
+    "pdf_url": "https://arxiv.org/pdf/1911.07482v2",
+    "citation_count": 0
+  },
+  {
+    "filename": "Visual_Path_Tracking_Control_for_Park_Scene_1805_01184v2.pdf",
+    "title": "Visual Path Tracking Control for Park Scene",
+    "authors": [
+      "Linjiong Zhu",
+      "Wenfu Wang",
+      "Weijie Yang",
+      "Zhijie Pan",
+      "An Chen"
+    ],
+    "year": "未提及",
+    "research_background": "自动驾驶在复杂交通场景中面临挑战，如传感器昂贵、数据量大、安全性难保证。公园场景具有低速、固定路线、短接驳、交通简单等特点，适合实现自动驾驶。本文针对公园场景，提出仅用单目摄像头的视觉路径跟踪横向控制方法。",
+    "core_method": "提出基于单目摄像头的视觉路径跟踪控制方法。首先通过逆透视映射将图像转换为俯视图，然后从图像中计算距离误差和角度误差，利用模糊逻辑将两者模糊化为组合误差度，作为PID控制器的输入，输出方向盘转角控制指令。模糊化可容忍图像变换和车道检测带来的误差，使PID控制更稳定。",
+    "key_experiments": "在虚拟和真实场景中进行了实验，验证了方法能准确、鲁棒地跟踪路径，甚至在夜间也能工作。与纯追踪方法相比，该方法能实现5米转弯。",
+    "limitations": "未提及",
+    "my_notes": "将模糊逻辑与视觉检测结合，利用模糊化容忍图像处理误差，使PID控制更稳定，方法简单且成本低，适合特定场景的自动驾驶应用。",
+    "abstract": "Autonomous driving application is developing towards specific scenes. Park scene has features such as low speed, fixed routes, short connection, less complex traffic, and hence is suitable for bringing autonomous driving technology into reality. This paper targets park scene, and proposes a visual path tracking lateral control method using only one webcam. First, we calculate error of distance and error of angle from camera images, and then use fuzzy logic to fuzzify them into a combined error d",
+    "published": "2018-05-03",
+    "arxiv_id": "1805.01184v2",
+    "pdf_url": "https://arxiv.org/pdf/1805.01184v2",
+    "citation_count": 0
+  }
+]
